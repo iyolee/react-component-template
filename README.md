@@ -1,2 +1,2 @@
 # react-component-template
-Create a React Component Library
+A simple template for a custom React component library.
